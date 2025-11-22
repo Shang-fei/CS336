@@ -37,7 +37,6 @@ ENV/
 
 # Jupyter Notebooks
 .ipynb_checkpoints
-*.ipynb
 
 # PyTorch
 *.pth

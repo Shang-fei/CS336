@@ -35,8 +35,7 @@ This assignment focuses on optimizing and scaling language model training.
 # Install dependencies
 pip install torch numpy transformers triton
 
-# For distributed training
-pip install torch.distributed
+# torch.distributed is included with PyTorch
 
 # Run tests
 pytest tests/
